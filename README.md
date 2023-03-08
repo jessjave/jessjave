@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Jess! <br/><a href="https://github.com/jessjave">GitHub</a>, <a href="https://www.linkedin.com/in/jessicajaveed/">LinkedIn</a></h1>
 
-<!--
-**jessjave/jessjave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Capstone Project</b>
+  - [Stroke Incidence Prediction (Using Machine Learning - Python)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Data Structures and Algorithms </b>
+  - [WGUPS Package Delivery System (Python)](https://github.com/jessjave/WGUPS)
+  - [State Capitals (Java)](https://github.com/jessjave/State-Capitals)
+- <b>Java Projects</b>
+  - [Customer Appointment Scheduler](https://github.com/jessjave/Appointment_Scheduler)
+  - [Inventory Management](https://github.com/jessjave/Inventory_Management)
+  - [Mortgage Calculator](https://github.com/jessjave/Mortgage-Calculator)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
