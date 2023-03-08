@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jess! <br/><a href="https://github.com/jessjave">GitHub</a>, <a href="https://www.linkedin.com/in/jessicajaveed/">LinkedIn</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>💻 Software Development Projects:</h2>
 
 - <b>Capstone Project</b>
   - [Stroke Incidence Prediction (Using Machine Learning - Python)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
