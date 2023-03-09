@@ -3,7 +3,7 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Capstone Project</b>
-  - [Stroke Incidence Prediction (Using Machine Learning - Python)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Stroke Incidence Prediction (Using Machine Learning - Python)](https://github.com/jessjave/Stroke_Prediction)
 - <b>Data Structures and Algorithms </b>
   - [WGUPS Package Delivery System (Python)](https://github.com/jessjave/WGUPS)
   - [State Capitals (Java)](https://github.com/jessjave/State-Capitals)
