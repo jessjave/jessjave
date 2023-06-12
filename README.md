@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jess! <br/><a href="https://github.com/jessjave">GitHub</a>, <a href="https://www.linkedin.com/in/jessicajaveed/">LinkedIn</a></h1>
 
-<h2>🤖 Testing and Automation:</h2>
-- [Selenium Framework](https://github.com/jessjave/SeleniumFramework)
+## 🤖 Testing and Automation:
+  - [Selenium Framework](https://github.com/jessjave/SeleniumFramework)
 
 <h2>💻 Software Development Projects:</h2>
 
