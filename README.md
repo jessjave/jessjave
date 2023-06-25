@@ -2,6 +2,8 @@
 
 <h2>💻 Software Development Projects:</h2>
 
+- <b>Current Project</b>
+  - [Itinerary Buddy (in progress...)](https://github.com/jessjave/ItineraryBuddy)
 - <b>Capstone Project</b>
   - [Stroke Incidence Prediction (Using Machine Learning - Python)](https://github.com/jessjave/Stroke_Prediction)
 - <b>Data Structures and Algorithms </b>
